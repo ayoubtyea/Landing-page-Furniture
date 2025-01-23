@@ -1,0 +1,40 @@
+ <div class="p-4 min-h-screen ml-13">
+            <div class="max-w-7xl mx-auto px-6 md:px-12 xl:px-6">
+              <div
+                class="grid divide-x divide-y  overflow-hidden  rounded-3xl border text-white-600 border-green-700 sm:grid-cols-2 lg:grid-cols-4  lg:divide-y-0 xl:grid-cols-4">
+                <div class="group text-center relative bg-[#286f6c]  transition hover:z-[1] hover:shadow-2xl  hover:shadow-gray-600/10">
+                  <div class="relative space-y-8 py-12 p-8">
+                    <div class="">
+                      <h5 class="text-3xl font-semibold text-white">7</h5><br>
+                      <p class="text-gray-300">Years <br><span>Experience</span></p>
+                    </div>
+                  </div>
+                </div>
+                <div class="group text-center relative bg-[#286f6c] transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
+                  <div class="relative space-y-8 py-12 p-8">
+                    <div class="">
+                      <h5 class="text-3xl font-semibold text-white ">2</h5><br>
+                      <p class="text-gray-300">Opened in<br> <span>the country</span></p>
+                    </div>
+                  </div>
+                </div>
+                <div class="group text-center relative bg-[#286f6c]  transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
+                    <div class="relative space-y-8 py-12 p-8">
+                      <div class="">
+                        <h5 class="text-3xl font-semibold text-white ">10K+</h5><br>
+                        <p class="text-gray-300">Furniture <br>sold</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="group text-center relative bg-[#286f6c] transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
+                    <div class="relative space-y-8 py-12 p-8">
+                      <div class="">
+                        <h5 class="text-3xl font-semibold text-white">260+</h5><br>
+                        <p class="text-gray-300">Variant <br> Furniture</p>
+                      </div>
+                    </div>
+                  </div>
+
+              </div>
+            </div>
+          </div>
